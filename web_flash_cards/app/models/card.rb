@@ -1,3 +1,4 @@
 class Card < ActiveRecord::Base
-  # Remember to create a migration!
+  has_many :cards_decks
+  has_many :decks, through: :cards_decks
 end
