@@ -1,49 +1,3 @@
-'s	chez ("before the owner")
-'s	de ("after the thing owned and before the owner")
--able	-able
--agogue	-agogue
--amine	-amine
--ance	-ance
--ancy	-ance, -ancie
--andry	-andrie
--andry	-andrie
--colous	-cole
--ed	(1): ("for past tenses, see individual verbs"), (2) Past participles: -é ("for verbs ending in -er"), -i ("for verbs ending in -ir"), -u ("for verbs ending in -re"); (3): -é, -i, -u
--ence	-ence
--er	"translated as"
--er	"translated as" habitant/habitante (m)/(f) de
--er	"translated as" joueur/joueuse (m)/(f) de
--er	"translated as" joueur/joueuse (m)/(f) de
--er	-eur (m), -euse (f) ("see specific words ending with this prefix for precise translations")
--er	plus ("used before the adjective or adverb")
--ese	-ois, -ais
--esque	-esque
--est	-es (for regular -er verbs); -is (for regular -ir verb); -s (for most -re verbs)
--est	le plus (put before the verb), eg. "biggest" = "le plus grand"
--fold	fois ("as a separate word: see example")
--fold	fois ("as a separate word: see example")
--free	sans ("before the word combined with")
--graph	-graphe
--ian	-ien
--ible	-ible
--ic	-ique
--idae	-idés
--ing	-ant
--ish	-âtre (2), environ (3; "used separately before the number"), à peu près (3; "used separately after the number")
--ist	-iste
--itas	-ité
--ity	-ité (f)
--ive	-if (m), -ive (f)
--logical	-logique
--logy	-logie (f)
--ly	(1): -ment
--ous	-eux (m), -euse (f)
--phobia	-phobie
--um	-um
--un-	-un-
--y	-et, -ette, -ine
--y	-eux (m), -euse (f)
--y	-é
 1980s	annèes 1980
 1st	1er (m), 1ère (f)
 A major	la majeur
@@ -7821,7 +7775,6 @@ henceforth	dorénavant
 henry	henry (m)
 heptagon	heptagone (m)
 heptagonal	heptagone
-her	("after preposition") elle, ("indirect object") lui, ("indirect object, emphatic") lui ... à elle, ("indirect object with an imperative verb") lui, ("direct object") la ("becoming" l' "before a vowel or an mute h"), ("direct object, emphatic") la ... elle
 her	son (m), sa (f), ses (p)
 herald	annoncer
 herald	héraut
@@ -7889,8 +7842,6 @@ hijack	détourner
 hilarious	hilare
 hill	colline (f)
 hilt	poignée (f)
-him	("after preposition") lui, ("indirect object") lui, ("indirect object, emphatic") lui ... à lui, ("indirect object with an imperative verb") lui, ("direct object") le ("becoming" l' "before a vowel or an mute h"), ("direct object, emphatic") le ... lui
-hint	allusion (f) (1)
 hip	hanche (f)
 hip-hop	hip hop
 hippopotamus	hippopotame
@@ -7937,8 +7888,6 @@ homeless	SDF (sans domicile fixe)
 homeopathy	homéopathie (f)
 homepage	accueil, index
 homework	devoirs "m plural"
-homicide	homicide (m) ("murder"), meurtre (m) ("murder"), assassinat (m) ("murder"), homicide involontaire (m) ("manslaughter")
-homicide	homicide (m) ("murderer"), meutrier (m) ("male murderer"), meutrière (f) ("female murderer"), assassin ("murderer")
 homogeneous	homogène
 homograph	homographe (m)
 homology	homologie
@@ -13815,7 +13764,6 @@ theft	vol (m)
 their	leur (s), leurs (p)
 theirs	le leur "m sing", la leur "f sing", les leurs (pl)
 theism	théisme (m)
-them	("after preposition") eux (m), elles (f), ("indirect object") leur, ("indirect object, emphatic") leur ... à eux (m), leur ... à elles (f), ("indirect object with an imperative verb") leur, ("direct object") les, ("direct object, emphatic") les ... eux (m), les ... elles (f)
 thematically	thématiquement
 thematology	thématologie
 theme	thème (m)
@@ -14506,7 +14454,6 @@ urgent	urgent
 urinate	uriner
 urine	urine (f)
 urology	urologie (f)
-us	("after preposition") nous, ("indirect object") nous, ("indirect object, emphatic") nous ... à nous, ("indirect object with an imperative verb") nous, ("direct object") nous, ("direct object, emphatic") nous ... nous
 use	usage (m)
 use	utiliser, se servir de
 used to	"use the imperfect tense of the verb that follows"
