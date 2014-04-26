@@ -1,6 +1,20 @@
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
 <div class="container">
-  <% @cards.each do |card| %>
-    <p><%= card.question %><br>
-    <%= card.answer %></p>
-  <% end %>
+	
+	<div class="card">
+	
+	<p id="question"><%= @question %></p>
+	</div>
+	
+	<!-- <canvas id="flashcard" width="250" height="350"></canvas> -->
+	<!-- <p><%= @answer %></p> -->
+	<div id="form">
+	<form>
+		Your guess: <input type="text" name="question" action="/french?:id" method="post">
+		<input type="submit" value="Next Question">
+	</form>
+	</div>
+
+	
 </div>
