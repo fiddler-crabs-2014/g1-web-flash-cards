@@ -1,0 +1,19 @@
+<div class="container">
+    <p>Question: <%= @question %><br>
+    Answer: <%= @answer %>
+    </p>
+    hi: <%= "/french/#{@next_id}" %>
+</div>
+
+<form action = <%= "/french/#{@next_id}/check_answer" %> method ="POST">
+  <input type="text" name="input">
+  <input type="submit">
+</form>
+
+<form action = <%= "/french/#{@next_id}/answer" %> method ="POST">
+  <input type="submit" value="answer">
+</form>
+
+<form action = <%= "/french/#{@next_id}/question" %> method ="POST">
+  <input type="submit" value="next">
+</form>
