@@ -3,7 +3,7 @@ class CreateRounds < ActiveRecord::Migration
     create_table :rounds do |t|
       t.integer :correct, :default => 0
       t.integer :incorrect, :default => 0
-      t.integer :remaining_cards, :default => 10
+      t.integer :remaining_cards, :default => 20
       t.belongs_to :users
       t.timestamps
     end

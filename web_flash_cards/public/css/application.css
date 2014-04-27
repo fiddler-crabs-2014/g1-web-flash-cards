@@ -11,21 +11,21 @@ margin-top: 0px;
   background-color: #EDEDED;
 }
 
-.header_container {
 
-  margin: 20px auto;
-  width: 75%;
-  height: 80px;
-/*  padding: 0px 20px 20px 20px;*/
-  margin-top: 0px;
-}
-
+/*
 th {
   text-align: left;
 }
-
+*/
 
 /********everything in header in master page********/
+
+.header_container {
+  margin: 20px auto;
+  width: 75%;
+  height: 80px;
+  margin-top: 0px;
+}
 
 
 .header {
@@ -131,9 +131,24 @@ h1#header_title {
 }
 
 .account_container h3 {
-	color: #FF3C00;
+	color: #5f9900;
 	font-size: 2em;
-	font-family: 'Montserrat', 'sans-serif';
+	font-family: 'Asap', 'sans-serif';
+}
+
+.account p {
+	font-size: 1.2em;
+	color: gray;
+}
+
+.stats p {
+	font-size: 1.2em;
+	color: gray;
+}
+
+.public_decks input {
+	font-size: 1.2em;
+	color: gray;
 }
 
 h1#greeting {
@@ -164,7 +179,7 @@ h1#greeting {
 
 
 
-/***********************************888******/
+/********************************************/
 
 
 
@@ -173,17 +188,17 @@ h1#greeting {
 
 
 
-/*car design for round page*/
+/*card design for round page*/
 
 .card {
-	background-color: white;
+	background-color: black;
 	border: 1px solid gray;
-	width: 250px;
+	width: 490px;
 	height: 350px;
 	border-radius: 10px;
 	box-shadow: 2px 2px 12px gray;
 	margin-bottom: 30px;
-	margin-top: 100px;
+	margin-top: 50px;
 	margin-left:auto;
   margin-right:auto;
 
@@ -191,15 +206,14 @@ h1#greeting {
 
 /*question on card for round page*/
 
-   #question  {
 
-   	color: #800000;
-	  text-align: center;
-		vertical-align: middle;
-		line-height: 250px;
-		font-size: 3em;
-		font-family: 'Open Sans Condensed', 'sans-serif';
-
+#question {
+color: white;
+text-align: center;
+vertical-align: middle;
+font-size: 2em;
+font-family: 'Open Sans Condensed', 'sans-serif';
+padding: 20%;
 }
 
 
@@ -208,6 +222,8 @@ h1#greeting {
 
 		margin: 0 auto;
 }
+
+
 
 
 
