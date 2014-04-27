@@ -1,0 +1,17 @@
+<div class="container">
+  <h1>Flash Cards</h1>
+
+  <h2>Hello, <%= "#{@user.name.capitalize}" %></h2>
+  <p>You don't know Jack! (But you will.)</p>
+  <h3>Account Info</h3>
+  <p><%= @user.name.capitalize %></p>
+  <p><%= @user.id %></p>
+  <p><%= @user.email %></p>
+  <h3>Account Stats</h3>
+  <h3>Public Decks</h3>
+
+<% @decks.each do |deck| %>
+  <h4><a href="/deck/<%= deck.topic %>"><%= deck.topic %></a></h4>
+<% end %>
+
+</div>
