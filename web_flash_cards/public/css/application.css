@@ -1,48 +1,213 @@
+body {
+margin-top: 0px;
+}
+
 .container {
   margin: 20px auto;
-  width: 600px;
-  padding: 0px 20px 20px 20px;
+  width: 850px;
+  height: 700px;
+  padding: 40px;
+  margin-top: 100px;
+  background-color: #EDEDED;
+}
+
+.header_container {
+
+  margin: 20px auto;
+  width: 75%;
+  height: 80px;
+/*  padding: 0px 20px 20px 20px;*/
+  margin-top: 0px;
 }
 
 th {
   text-align: left;
 }
 
+
+/********everything in header in master page********/
+
+
+.header {
+	height: 80px;
+	width: 100%;
+	background-color: black;
+	box-shadow: 2px 4px 20px #DBDBDB;
+  -moz-box-shadow: 2px 4px 20px #DBDBDB;
+  -webkit-box-shadow: 2px 4px 20px #DBDBDB;
+
+}
+
+#header_title {
+	text-decoration: none;
+	text-align: center;
+	width: 500px;
+	height: 40px;
+	padding-top: 18px;
+	font-style: italic;
+}
+
+span#madness {
+	color: #92EC00;
+	font-style: italic;
+}
+
+h1#header_title {
+	margin: 0 auto;
+	vertical-align: center;
+	color: white;
+	position: relative;
+}
+
+
+#username {
+	position: relative;
+	float: left;
+}
+
+#username a {
+	color: #92EC00;
+	text-decoration: none;
+	font-family: 'Waiting for the Sunrise', 'cursive';
+	letter-spacing: .5px;
+}
+
+#username a:hover {
+	color: white;
+}
+
+
+#decks {
+	position: relative;
+	float: right;
+}
+
+#decks a {
+	color: #92EC00;
+	text-decoration: none;
+	font-family: 'Waiting for the Sunrise', 'cursive';
+	letter-spacing: .5px;
+	margin-left: 20px;
+
+}
+
+#decks a:hover {
+	color: white;
+}
+
+
+#logout {
+	position: relative;
+	float: right;
+}
+
+#logout a {
+	color: #92EC00;
+	text-decoration: none;
+	font-family: 'Waiting for the Sunrise', 'cursive';
+	letter-spacing: .5px;
+}
+
+#logout a:hover {
+	color: white;
+}
+
+
+
+
+
+
+/********everything in on account page********/
+
+.account_container {
+	height: 400px;
+	width: 600px;
+	background-color: white;
+	padding: 40px;
+	border: 8px solid black;
+	margin: 0 auto;
+	box-shadow: 4px 8px 10px gray;
+	/*border-radius: 8px;*/
+}
+
+.account_container h3 {
+	color: #FF3C00;
+	font-size: 2em;
+	font-family: 'Montserrat', 'sans-serif';
+}
+
+h1#greeting {
+	font-size: 4em;
+	font-family: 'Montserrat', 'sans-serif';
+	margin: 20px auto;
+	margin-left: 70px;
+}
+
+.account {
+	float: left;
+	margin-left: 20px;
+}
+
+.stats {
+	float: right;
+	margin-right: 20px;
+}
+
+.public_decks {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+/***********************************888******/
+
+
+
+
+
+
+
+
+/*car design for round page*/
+
 .card {
-  background-color: white;
-  border: 1px solid gray;
-  width: 250px;
-  height: 350px;
-  border-radius: 10px;
-  box-shadow: 2px 2px 12px gray;
-  margin-bottom: 30px;
-  margin-top: 100px;
-  margin-left:auto;
+	background-color: white;
+	border: 1px solid gray;
+	width: 250px;
+	height: 350px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 12px gray;
+	margin-bottom: 30px;
+	margin-top: 100px;
+	margin-left:auto;
   margin-right:auto;
+
 }
 
-#question  {
-  color: #800000;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 250px;
-  font-size: 3em;
-  font-family: 'Open Sans Condensed', 'sans-serif';
+/*question on card for round page*/
+
+   #question  {
+
+   	color: #800000;
+	  text-align: center;
+		vertical-align: middle;
+		line-height: 250px;
+		font-size: 3em;
+		font-family: 'Open Sans Condensed', 'sans-serif';
+
 }
 
-#form {
-  margin: 0 auto;
+
+
+	 #form {
+
+		margin: 0 auto;
 }
 
-#question  {
-  color: #800000;
-  text-align: center;
-	vertical-align: middle;
-	line-height: 250px;
-	font-size: 3em;
-	font-family: 'Open Sans Condensed', 'sans-serif';
-}
 
-#form {
-  margin: 0 auto;
-}
+
