@@ -1,3 +1,5 @@
 class Guess < ActiveRecord::Base
-  # Remember to create a migration!
+  def correct?
+    self.user_input == self.answer
+  end
 end

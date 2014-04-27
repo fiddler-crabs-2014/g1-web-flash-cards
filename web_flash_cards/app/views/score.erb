@@ -1,0 +1,11 @@
+<div class="container">
+  Correct<br>
+  <%= @round.correct%><br>
+  Incorrect<br>
+  <%= @round.incorrect%><br>
+  Accuracy<br>
+  <%= @round.correct/(@round.correct+@round.incorrect).to_f.round(4)*100%>%
+</div>
+<form action="/logout" method="GET">
+  <input type="submit" value="Log Out">
+</form>

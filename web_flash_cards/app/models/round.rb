@@ -1,22 +1,25 @@
 class Round < ActiveRecord::Base
+  validates :remaining_cards, numericality: { less_than_or_equal_to: 10}
 
-  def mark_correct!
+  belongs_to :user
+
+  def up_score!
     self.correct += 1
+    return "Correct!"
   end
 
-  def mark_incorrect!
+  def down_score!
     self.incorrect += 1
+    return "Incorrect."
   end
 
-  def stats
-    cards_played = self.incorrect + self.correct
-    accuracy = (self.correct/cards_played).to_f.round(1)
-    accuracy
+  def game_over?
+    self.remaining_cards == 0
+  end
+
+  def update!
+    self.remaining_cards -= 1
+    self.save
   end
 
 end
-
-add_column :users, :rounds
-add_column :users, :correct
-add_column :users, :incorrect
-

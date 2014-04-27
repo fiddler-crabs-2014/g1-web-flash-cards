@@ -1,0 +1,267 @@
+pile  pila (f) (6,11)
+pilgrimage  peregrinación (f)
+pillar  pilar (m)
+pillow  almohada (f)
+pilot piloto (m)
+pimiento  pimentón
+pimp  chulo (m), golfo (m)
+pimple  espinilla (f)
+pin clavado (m), clavada (f)
+pin clavar
+pince-nez quevedos "m pl"
+pinch aprieto (m)
+pinch pellizcar
+pinch pellizcar
+pinch pellizco (m)
+pinch pizca (f)
+pine  pino (m)
+pineapple piña (f), ananás (m)
+pineapple piña (f), ananás (m)
+ping pong tenis de mesa (m)
+pink  rosado
+pink  rosado, rosa
+pintail pato (m)
+pip pipa (f)
+pipe  tuberia (f) (1), pipa (f) (2)
+pipit bisbita (f)
+piranha piraña (f)
+pirate  pirata (m)
+pirate  pirata (m)
+pirate  pirata (m)
+piss  meado (m), orina (f)
+piss  mear, orinar, empapar de meado
+pistol  pistola (f)
+pit foso (m)
+pitch pez (f)
+pitcher lanzador (m), lanzadora (f)
+pitiful lamentable
+pity  lástima (f)
+pity  piedad (f)
+pixel píxel (m)
+pizza pizza (f)
+place plaza (f)
+place mat salvamanteles (m)
+plague  plaga (f)
+plain-winged antshrike  batará alillano
+plane cepillo (m)
+plane plano (m)
+planet  planeta (m)
+plank tablón (1), artículo (2)
+plankton  plancton
+plant maquinaria (f), fábrica (f)
+plant planta (f)
+plant planta (f), mata (f)
+plant plantar, colocar
+plant plantar, sembrar
+plantain  plátano macho (m) ("Mexico"), plátano (m) ("some countries")
+plantation  plantación (f)
+plasticity  plasticidad (f)
+plate chapar
+plate grabado (m)
+plate plato (m)
+platinous platinoso
+platinum  platino (m)
+platypus  ornitorrinco (m)
+play  juego (m)
+play  jugar
+play  jugar a
+play  tocar
+player  jugador
+playing card  baraja (f)
+plea  súplica
+pleasant  placentero (m), placentera (f)
+please  gustar, agradar
+please  por por favor, favor de
+pleased to meet you encantado ("said by a man"), encantada ("said by a woman")
+pleasure  placer
+plectrum  plectro (m)
+plentiful abundante °
+plethora  plétora ("of": de)
+pliers  alicates (m) (p)
+ploop popo, caca
+plot  argumento (m)
+plot  complot (m)
+plot twist  cambio de dirección del diagrama
+plover  chorlo (m), chorlito (m), chorlitejo (m)
+pluck desplumar
+pluck perseverancia (f)
+plug  enchufe (m)
+plug  tapón (m)
+plum  ciruela (f)
+plum  ciruelo (m)
+plumage plumaje
+plumber fontanero (m) ("Spain"), plomero (m) ("Latin America")
+plumbing  cañería (f)
+plumbing  fontanería (f), plomería (f)
+plunge  zambullir (1,4)
+pluperfect tense  pluscuamperfecto
+plural  plural
+plural  plural (m)
+plus sign signo más (m)
+pneumoconiosis  pneumoconiosis
+pochard pato (m), porrón (m)
+pocket  bolsillo (m)
+pocket  embolsar
+pod Capsula de Escape
+pod Capullo
+poem  poema, oda
+poetry  poesía (f)
+point indicar
+point punta (f)
+point punto
+point punto
+point punto de encuentro
+poison  veneno (m)
+poisonous tóxico (m), tóxica (f); venenoso (m), venenosa (f)
+poker atizador
+poker póker
+polar bear  oso polar (m), oso blanco (m)
+pole  palo (m), garrocha (f)
+pole  polo (m)
+pole vault  salto con garrocha (m)
+polecat turón (m)
+police  policía
+police officer  policía "m/f"
+polis polis
+polish  acicalar
+polish  betún ("footwear")
+political party partido político
+politics  política (f)
+pollen  polen (m)
+pollution contaminación
+poly- poli-
+polyamory poliamoría
+polyglot  políglota (m)
+polygon polígono
+polymer polímero (m)
+polynomial  polinomial
+polysemic polisémico
+polysynthetic polisintético
+polytheistic  politeísta
+polytope  politopo (m)
+pomegranate granada (f)
+ponytail  cola de caballo (f)
+pooch pichicho (m)
+pool  piscina (f)
+poop  popo, caca
+poor  lo pobre (n)
+poor  pobre
+poor  pobre ("precedes the noun")
+pop pum
+pop culture pariah  paria de la cultura del estallido
+popcorn palomita (f) ("Mexico"), poporopo ("Guatemala"), rosita (f) de maiz, cancha
+pope  papa (m)
+poplar  álamo (m)
+por isso  por eso
+pork  cerdo (m)
+pornography pornografía (f)
+porpoise  marsopa (f)
+port  babor (m)
+port  puerto (m)
+port  puerto (m)
+port  vino de Oporto (m)
+portal  portada
+portal  portada
+portion porción
+portmanteau maleta (f), valija (f)
+posh  pijo (m), pija, (f), elitista "m and f"
+position  Posición
+posology  posología
+possessing  poseyendo
+possession  posesión (f)
+possessive  caso posesivo (m)
+possessive  posesivo (m)
+possessive case caso posesivo (m)
+possessive pronoun  pronombre posesivo (m)
+possibility posibilidad (f)
+possible  posible
+possiblities  posibilidades "f, pl"
+post  poste (m), estaca (f)
+post-production post-producción
+postage stamp estampilla (f)
+postcard  tarjeta postal
+poster  cartel
+poster  cartel
+postposition  posposición (f)
+postprandial  de sobremesa ("at the table"), que se da después de comer
+posture postura
+pot marihuana (f)
+pot olla (f), marmita (f)
+potable potable
+potassium potasio (m)
+potato  patata (f), papa (f) "(Canary Islands, Mexico, Peru)"
+pothole bache (m)
+potion  brebaje (m)
+potsherd  tiesto (m), casco (m)
+potter  alfarero (m), ceramista (mf)
+pottery cerámica
+pouch bolsa (f), saquito (m), petaca (f), cebador (m), marsupio (m) of a marsupial), valija (f)
+pound almohadilla (f)
+pound libra (f)
+pound libra (f)
+pound libra (f) (1, 2), perrera (f) (3), almohadilla (f) (6)
+pound perrera (f)
+pound pilar
+powder  polvo
+powder  ponerse polvos, empolvarse
+powder  pulverizarse, hacerse polvo
+powder  reducir a polvo, pulverizar, triturar
+power corriente (f), electricidad (f)
+power poder (f)
+power potencia (f)
+power potencia (f)
+power potencia (f)
+power potencia (f), poder (m)
+power set conjunto de conjunto de partes (m)
+powerful  poderoso
+pragmatic pragmático (m), pragmática (f)
+praise  alabanza (f)
+prank travesura (f), broma (f)
+prayer  orador (m), oradora (f)
+prayer  rezo, oración
+pre-Columbian precolombino
+precipice precipicio (m)
+precipitously precipitadamente
+predicate predicado (m)
+predicate predicado (m)
+prefer  preferir
+pregnant  embarazada, preñada, encinta "f only" ("of humans"), embarazado (m), embarazada ("of animals")
+prejudice prejuicio
+preposition preposición (f)
+prepositional caso preposicional (m)
+prepositional preposicional "m/f", prepositivo (m)
+prepositional case  caso preposicional (m)
+preposterous  absurdo
+prepuce prepucio (m)
+prequel retrohistoria
+prescription  receta
+present presentar
+present presentar
+present presente
+present presente (m)
+present presente, actual
+present regalo (m)
+present participle  participio presente (m)
+preserve  preservar
+president presidente (m), presidenta (f)
+press prensa (f)
+press prensa (f)
+pressure  presión (f) (1,2)
+prestige  prestigio (m)
+presuppose  presuponer
+pretend fingir
+preterite preterito
+preterite preterito
+pretty  bastante
+pretty  guapa, bonita, preciosa
+prevent prevenir
+previous  anterior
+pride orgullo
+priest  cura (m), sacerdote (m), párroco (m)
+prime minister  primer ministro (m), presidente de Gobierno (m)
+prime number  número primo (m)
+primer  abecé (m), silabario (m)
+primitive primitivo (m)
+primitive primitivo (m), primitiva (f)
+prince  príncipe (m), infante (m), infanta (f)
+princess  princesa (f), infanta (f)
