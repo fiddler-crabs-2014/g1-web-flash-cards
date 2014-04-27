@@ -1,12 +1,29 @@
 <div class="container">
   <h1>Flash Cards</h1>
-
-  <h2>Hello, <%= "#{@user.name.capitalize}" %></h2>
+  <h2>Hello, <%= @user.name.capitalize %></h2>
   <p>You don't know Jack! (But you will.)</p>
+
   <h3>Account Info</h3>
+  <p>Name: <%= @user.name.capitalize %></p>
+  <p>ID: <%= @user.id %></p>
+  <p>Email: <%= @user.email %></p>
+
   <h3>Account Stats</h3>
+  <div>
+    <p>Rounds Played: <%= @rounds_played %></p>
+    <p>Total Correct: <%= @total_correct %></p>
+    <p>Total Incorret: <%= @total_incorrect %></p>
+    <p>Accuracy: <%= @accuracy %> %</p>
+  </div>
+
   <h3>Public Decks</h3>
-
-
-
+  <% @decks.each do |deck| %>
+  <% @topic = deck.topic %>
+  <form method='post' action='/round/<%=@topic%>'>
+    <div id=''>
+      <h4><input type='submit' value='<%=@topic%>'>
+      <!-- <img src='<%=@topic%>.jpg'><br> -->
+    </div>
+    </form>
+  <% end %>
 </div>

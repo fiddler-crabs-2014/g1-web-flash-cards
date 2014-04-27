@@ -1,22 +1,15 @@
-<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
-
 <div class="container">
 
+  <div class="card"><p id="question"><%= @card.question%></p></div>
 
-	<div class="card">
+  <div id="answer">
+    Answer: <%= @card.answer%> (div #answer ; this text should be hidden )
+  </div>
 
-	<p id="question"><%= @question %></p>
-	</div>
-
-	<!-- <canvas id="flashcard" width="250" height="350"></canvas> -->
-	<!-- <p><%= @answer %></p> -->
-	<div id="form">
-	<form>
-		Your guess: <input type="text" name="question" action="/french?:id" method="post">
-		<input type="submit" value="Next Question">
-	</form>
-	</div>
-
+  <form method="POST" action="/round/<%= @deck.topic %>">
+    <input type="text" name="user_input">
+    <input type="submit" value="Check Answer" name="check_answer">
+  </form>
 
 </div>
 
