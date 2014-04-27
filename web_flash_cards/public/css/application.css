@@ -33,3 +33,16 @@ th {
 #form {
   margin: 0 auto;
 }
+
+#question  {
+  color: #800000;
+  text-align: center;
+	vertical-align: middle;
+	line-height: 250px;
+	font-size: 3em;
+	font-family: 'Open Sans Condensed', 'sans-serif';
+}
+
+#form {
+  margin: 0 auto;
+}
