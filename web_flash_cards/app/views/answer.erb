@@ -4,15 +4,15 @@
     <p id="question"><%= @card.question %></p>
   </div>
 
-  <div class="answer_card hide">
+  <div class="answer">
     <p id="answer"><%= @card.answer %></p>
   </div>
 
   <div id="submit_guess">
 
-    <form id="guess" method="POST" action="/round/<%= @deck.topic %>">
+    <form method="POST" action="/round/<%= @deck.topic %>">
       <input type="text" name="user_input" class="user_guess">
-      <input type="submit" value="guess" class="check_answer" name="check_answer">
+      <input type="submit" value="guess" name="check_answer">
     </form>
 
   </div>

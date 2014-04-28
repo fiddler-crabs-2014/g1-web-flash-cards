@@ -1,40 +1,28 @@
 <div class="container">
-  <h1 id="greeting">Hello, <%= @user.name.capitalize %>!</h1>
 
-  <div class="account_container">
-  <!--  
-   <div class="account">
-     <h3>Account Info</h3>
-     <p>Name: <%= @user.name.capitalize %></p>
-     <p>ID: <%= @user.id %></p>
-     <p>Email: <%= @user.email %></p>
-  </div>
- -->
-    
-    <div class="stats">
-      <h3>Account Stats</h3>
-      <p>Rounds Played: <%= @rounds_played %></p>
-      <p>Total Correct: <%= @total_correct %></p>
-      <p>Total Incorrect: <%= @total_incorrect %></p>
-      <p>Accuracy: <%= @accuracy %> %</p>
-    </div>
+  <div class="account_container_wrapper">
+    <h1 id="greeting">Hello, <%= @user.name.capitalize %>!</h1>
 
+    <div class="account_container">
 
-    <div class="public_decks">
-      <h3>Public Decks</h3>
-      <% @decks.each do |deck| %>
-      <% @topic = deck.topic %>
-      <form method='post' action='/round/<%=@topic%>'>
-     
+      <div class="stats">
+        <h3>Account Stats</h3>
+        <p>Rounds Played: <%= @rounds_played %></p>
+        <p>Total Correct: <%= @total_correct %></p>
+        <p>Total Incorrect: <%= @total_incorrect %></p>
+        <p>Accuracy: <%= @accuracy.round(2) %>%</p>
+      </div>
+
+      <div class="public_decks">
+        <h3>Public Decks</h3>
+        <% @decks.each do |deck| %>
+        <% @topic = deck.topic %>
+        <form method='post' action='/round/<%=@topic%>'>
           <h4><input type='submit' value=<%=@topic%>>
-          
-       
-        <!-- <h4><a href="/deck/<%= deck.topic %>"><%= deck.topic %></a></h4> -->
         </form>
-    
+      <% end %>
+      </div>
 
-    <% end %>
     </div>
-
   </div>
 </div>

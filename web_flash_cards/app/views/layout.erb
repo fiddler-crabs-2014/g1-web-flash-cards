@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!--
-    normalize.css removes cross-browser differences in defaults, e.g.,
-    differences in how form elements appear between Firefox and IE
-    See: http://necolas.github.com/normalize.css/
-  -->
+
   <link rel="stylesheet" href="/css/normalize.css">
-  <!--
-    application.css is where you put your styles
-  -->
+
   <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Asap' rel='stylesheet' type='text/css'>
@@ -23,31 +17,19 @@
 </head>
 
 <body>
-  
-
 
   <div class="header">
-     
+
     <div class="header_container">
 
-       
+       <h2 id="username"><a href="/user">your account</a></h2>
 
-   <!--  put anything you want contained in header here -->
-       <h2 id="username"><a href="/user">Your account</a></h2>
-
-       <h2 id="decks"><a href="/decks">Decks</a></h2>
-       <h2 id="logout"><a href="/logout">Logout</a></h2>
+       <h2 id="logout"><a href="/logout">logout</a></h2>
+       <h2 id="decks"><a href="/decks">decks</a></h2>
        <h1 id="header_title">Flashcard <span id="madness">Madness</span></h1>
-
-
-      
-    
-    
 
     </div>
   </div>
-
-
 
   <%= yield %>
 </body>
