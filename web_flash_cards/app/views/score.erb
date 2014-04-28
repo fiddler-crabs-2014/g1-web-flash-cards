@@ -10,7 +10,7 @@
         <%= @round.incorrect%><br>
         <h2>Accuracy</h2>
         <%= @round.correct/(@round.correct+@round.incorrect).to_f.round(4)*100%>%
-        <br><br><br><form action="/round/movie-quotes" method="GET">
+        <br><br><br><form action="/round/movie-quotes" method="POST">
           <input type="submit" value="play again?">
         </form>
       </div>
