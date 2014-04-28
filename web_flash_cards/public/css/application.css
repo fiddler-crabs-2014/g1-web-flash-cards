@@ -11,12 +11,12 @@ body {
   padding-top: 5%;
 }
 
-a:link {
+a:link, a:visited {
 	color:#888;
 	text-decoration: none;
 }
 
-a:hover {color:#6a3;}
+a:hover {color:#1abc9c;}
 
 /********everything in header in master page********/
 
@@ -40,9 +40,13 @@ a:hover {color:#6a3;}
 #header_title {
 	text-decoration: none;
 	text-align: center;
-	width: 500px;
-	height: 40px;
-	padding-top: 18px;
+/*	width: 500px;
+	height: 40px;*/
+	padding-top: 3px;
+}
+
+.logo {
+	height: 72px;
 }
 
 #madness {
@@ -112,7 +116,7 @@ h1#header_title {
 
 .account_container_wrapper {
 
-	width: 600px;
+	width: 704px;
 	margin: 0 auto;
 }
 
@@ -180,7 +184,7 @@ h1#greeting {
 	width: 490px;
 	height: 350px;
 	border-radius: 10px;
-	box-shadow: 2px 2px 12px gray;
+	box-shadow: 2px 2px 12px #888;
 	margin-bottom: 30px;
 	margin-top: 50px;
 	margin-left:auto;
@@ -188,12 +192,12 @@ h1#greeting {
 }
 
 .answer_card {
-	background-color: black;
+	background-color: #1abc9c;
 	border: 1px solid gray;
 	width: 490px;
 	height: 350px;
 	border-radius: 10px;
-	box-shadow: 2px 2px 12px gray;
+	box-shadow: 2px 2px 12px #888;
 	margin-bottom: 30px;
 	margin-top: 50px;
 	margin-left:auto;
@@ -213,9 +217,10 @@ h1#greeting {
 
 #answer {
 	color: white;
+	text-shadow: 1px 1px #666;
 	text-align: center;
 	vertical-align: middle;
-	font-size: 2em;
+	font-size: 2.3em;
 	font-family: 'Open Sans Condensed', 'sans-serif';
 	padding: 10%;
 }
@@ -252,4 +257,8 @@ input[type="submit"] {
 	display: none;
 }
 
+/* score page */
 
+.score_text {
+
+}

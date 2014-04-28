@@ -1,5 +1,5 @@
 class Round < ActiveRecord::Base
-  validates :remaining_cards, numericality: { less_than_or_equal_to: 20}
+  validates :remaining_cards, numericality: { less_than_or_equal_to: 10}
 
   belongs_to :user
 

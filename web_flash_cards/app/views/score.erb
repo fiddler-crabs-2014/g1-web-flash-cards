@@ -1,11 +1,19 @@
 <div class="container">
-  Correct<br>
-  <%= @round.correct%><br>
-  Incorrect<br>
-  <%= @round.incorrect%><br>
-  Accuracy<br>
-  <%= @round.correct/(@round.correct+@round.incorrect).to_f.round(4)*100%>%
-  <form action="/logout" method="GET">
-    <input type="submit" value="Log Out">
-  </form>
+  <div class="account_container_wrapper">
+    <h1 id="greeting">Way to go!</h1>
+
+    <div class="account_container">
+      <div class="score_text">
+        <h2>Correct</h2>
+        <%= @round.correct%><br>
+        <h2>Incorrect</h2>
+        <%= @round.incorrect%><br>
+        <h2>Accuracy</h2>
+        <%= @round.correct/(@round.correct+@round.incorrect).to_f.round(4)*100%>%
+        <br><br><br><form action="/round/movie-quotes" method="GET">
+          <input type="submit" value="play again?">
+        </form>
+      </div>
+    </div>
+  </div>
 </div>
